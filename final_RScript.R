@@ -1,8 +1,7 @@
 ## Pratiksha Parsewar
 ## MovieLens Project 
 ## HarvardX: PH125.9x - Capstone Project
-## https://github.com/sidd-satish/edx-harvard-movielens-project
-
+## https: //github.com/pratikshaparsewar/harvardx-movielens-capstone
 #################################################
 # MovieLens Rating Prediction Project Code 
 ################################################
